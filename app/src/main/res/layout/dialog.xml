@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:focusableInTouchMode="true" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <CheckBox
+            android:id="@+id/all"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/all"
+            android:textSize="@dimen/checkbox_text_size" >
+        </CheckBox>
+
+        <CheckBox
+            android:id="@+id/box1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/s1701"
+            android:textSize="@dimen/checkbox_text_size" >
+        </CheckBox>
+
+        <CheckBox
+            android:id="@+id/box2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/s1703"
+            android:textSize="@dimen/checkbox_text_size" >
+        </CheckBox>
+
+        <CheckBox
+            android:id="@+id/box3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/s1705"
+            android:textSize="@dimen/checkbox_text_size" >
+        </CheckBox>
+
+        <CheckBox
+            android:id="@+id/box4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/x8"
+            android:textSize="@dimen/checkbox_text_size" >
+        </CheckBox>
+
+        <CheckBox
+            android:id="@+id/box5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ci24t"
+            android:textSize="@dimen/checkbox_text_size" >
+        </CheckBox>
+
+        <CheckBox
+            android:id="@+id/box6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ci14t"
+            android:textSize="@dimen/checkbox_text_size" >
+        </CheckBox>
+
+    </LinearLayout>
+
+    </LinearLayout>

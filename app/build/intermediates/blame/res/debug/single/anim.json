@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]

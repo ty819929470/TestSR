@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ty/.android/build-cache/7cf5b83a628267539eac3d97fc45f3b2eb28c558/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/ty/workcode/testSR/app/build/intermediates/pre-dexed/debug/classes_cf7f75522961ee9c8c0ee68ea9e9923b9aa1f065.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/ty/workcode/testSR/app/build/intermediates/pre-dexed/debug/classes_799b6d5accbd409ab0adf30779470f06bc461b54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ty/android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/ty/workcode/testSR/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_777c8b99e69927452af3903e5a57d4ac90b2ffeb.jar" />
+    </item>
+
+</items>

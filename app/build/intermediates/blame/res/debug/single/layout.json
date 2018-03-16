@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/ble_activity.xml",
+        "source": "/home/ty/workcode/testSR/app/src/main/res/layout/ble_activity.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/main_acitivity.xml",
+        "source": "/home/ty/workcode/testSR/app/src/main/res/layout/main_acitivity.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/dialog.xml",
+        "source": "/home/ty/workcode/testSR/app/src/main/res/layout/dialog.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/devices_item.xml",
+        "source": "/home/ty/workcode/testSR/app/src/main/res/layout/devices_item.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/scan_activity.xml",
+        "source": "/home/ty/workcode/testSR/app/src/main/res/layout/scan_activity.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/items.xml",
+        "source": "/home/ty/workcode/testSR/app/src/main/res/layout/items.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/newitems.xml",
+        "source": "/home/ty/workcode/testSR/app/src/main/res/layout/newitems.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/activity_search.xml",
+        "source": "/home/ty/workcode/testSR/app/src/main/res/layout/activity_search.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_include.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/layout/abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/dialog1.xml",
+        "source": "/home/ty/workcode/testSR/app/src/main/res/layout/dialog1.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/ty/workcode/testSR/app/build/intermediates/res/merged/debug/layout/activity_test.xml",
+        "source": "/home/ty/workcode/testSR/app/src/main/res/layout/activity_test.xml"
+    }
+]

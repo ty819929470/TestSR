@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:21.0.3] /home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] /home/ty/.android/build-cache/b9f6ab23edecb66e487219e64894f3a977dfed39/output/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ty/.android/build-cache/7cf5b83a628267539eac3d97fc45f3b2eb28c558/output/AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:12:22-71
+uses-permission#android.permission.ACCESS_BLUETOOTH_SHARE
+ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:15:22-78
+uses-permission-sdk-23
+ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:17:5-88
+	android:name
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:17:29-85
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:19:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:21:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:22:22-77
+application
+ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:24:5-63:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] /home/ty/.android/build-cache/bb411abf4e4b1f4e894e24e41a9e52853e5b8c00/output/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] /home/ty/.android/build-cache/b9f6ab23edecb66e487219e64894f3a977dfed39/output/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ty/.android/build-cache/7cf5b83a628267539eac3d97fc45f3b2eb28c558/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:27:9-41
+	android:allowBackup
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:25:9-35
+	android:icon
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:26:9-45
+	android:theme
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:28:9-40
+activity#com.routon.testsrUI.BleActivity
+ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:30:13-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:35:27-74
+activity#com.routon.testsrUI.ScanActivity
+ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:38:9-40:48
+	android:label
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:39:13-60
+service#com.routon.testsr.scan.BtService
+ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:59:9-68
+	android:name
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:59:18-65
+activity#com.routon.testsrUI.TestActivity
+ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:62:9-78
+	android:name
+		ADDED from /home/ty/workcode/testSR/app/src/main/AndroidManifest.xml:62:19-66

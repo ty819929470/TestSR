@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">testSR</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="offline">离线(仅扫描)</string>
+    <string name="online">蓝牙连接</string>
+
+
+    <string name="name">NAME</string>
+    <string name="mac">MAC</string>
+    <string name="rssi">RSSI</string>
+    <string name="data">DATA</string>
+
+    <string name="all">全选</string>
+    <string name="s1701">s1701</string>
+    <string name="s1703">s1703</string>
+    <string name="s1705">s1705</string>
+    <string name="x8">x8</string>
+    <string name="ci24t">CI24T</string>
+    <string name="ci14t">CI14T</string>
+
+    <string name="setting1">过滤设备</string>
+    <string name="setting2">过滤mac</string>
+    <string name="start">开始过滤</string>
+    <string name="startbroadcast">开始接受</string>
+    <string name="stopbroadcast">停止接收</string>
+
+    <string name="clear">清屏</string>
+
+    <string name="mac1">需要过滤的mac</string>
+    <string name="scan">扫描设备</string>
+
+    <string name="stopscan">停止扫描</string>
+    <string name="sendCMD">发送指令</string>
+    <string name="help">帮助</string>
+
+
+    <string name="edit_button">确认</string>
+    <string name="s1703turnOn">打开电容按键</string>
+    <string name="s1703turnOff">关闭电容按键</string>
+    <string name="turnOffLight">灭灯</string>
+    <string name="whitheLong">白灯常亮</string>
+
+    <string name="redTwinkle">红灯闪烁</string>
+    <string name="redShort">红灯短亮</string>
+    <string name="redLong">红灯常亮</string>
+
+    <string name="greenTwinkle">绿灯闪烁</string>
+    <string name="greenShort">绿灯短亮</string>
+    <string name="greenLong">绿灯常亮</string>
+
+    <string name="blueTwinkle">蓝灯闪烁</string>
+    <string name="blueShort">蓝灯短亮</string>
+    <string name="blueLong">蓝灯常亮</string>
+    <string name="s1703_version">S1703查询版本号</string>
+    <string name="s1703_mac">S1703查询版本号</string>
+    <string name="s1701_mac">S1701查询版本号</string>
+    <string name="s1705_mac">S1705查询版本号</string>
+
+</resources>
